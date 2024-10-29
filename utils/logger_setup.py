@@ -1,14 +1,20 @@
+# File: utils/logger_setup.py
+
 import logging
 
 def setup_logger(name, log_file, level=logging.INFO):
     """Set up a logger for a specific module."""
-    handler = logging.FileHandler(log_file)        
+    handler = logging.FileHandler(log_file)
     formatter = logging.Formatter('%(asctime)s %(levelname)s %(message)s')
     handler.setFormatter(formatter)
 
+    # Create logger with the given name and level
     logger = logging.getLogger(name)
     logger.setLevel(level)
-    logger.addHandler(handler)
+
+    # Add the handler only if it's not already added
+    if not logger.handlers:
+        logger.addHandler(handler)
 
     return logger
 

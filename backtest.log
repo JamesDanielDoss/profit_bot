@@ -1,0 +1,62 @@
+2024-10-28 19:53:51,626 INFO Fetching historical market data for backtesting...
+2024-10-28 19:53:52,253 INFO Data fetched successfully.
+2024-10-28 19:53:52,254 INFO Generating trade signals for backtesting...
+2024-10-28 19:53:52,262 INFO Trade signals generated.
+2024-10-28 19:53:52,262 INFO Calculating confidence scores for backtesting...
+2024-10-28 19:53:52,270 INFO Confidence scores calculated.
+2024-10-28 19:53:52,270 INFO Calculating strategy returns...
+2024-10-28 19:53:52,274 INFO Backtesting completed. Final cumulative strategy return:
+2024-10-28 19:53:52,274 INFO Price                            Close Signal Daily_Return Strategy_Return Cumulative_Strategy_Return
+Ticker                           ^GSPC                                                               
+Date                                                                                                 
+2022-12-23 00:00:00+00:00  3844.820068      1     0.005868        0.005868                  -0.050723
+2022-12-27 00:00:00+00:00  3829.250000      1    -0.004050       -0.004050                  -0.054567
+2022-12-28 00:00:00+00:00  3783.219971      1    -0.012021       -0.012021                  -0.065932
+2022-12-29 00:00:00+00:00  3849.280029      1     0.017461        0.017461                  -0.049622
+2022-12-30 00:00:00+00:00  3839.500000      1    -0.002541       -0.002541                  -0.052037
+2024-10-28 19:56:49,379 INFO Fetching historical market data for backtesting...
+2024-10-28 19:56:49,954 INFO Data fetched successfully.
+2024-10-28 19:56:49,954 INFO Generating trade signals for backtesting...
+2024-10-28 19:56:49,961 INFO Trade signals generated.
+2024-10-28 19:56:49,961 INFO Calculating confidence scores for backtesting...
+2024-10-28 19:56:49,968 INFO Confidence scores calculated.
+2024-10-28 19:56:49,968 INFO Calculating strategy returns...
+2024-10-28 19:56:49,974 INFO Final Cumulative Return: -5.20%
+2024-10-28 19:56:49,975 INFO Average Daily Return: 0.0053%
+2024-10-28 19:56:49,975 INFO Backtesting completed. Sample of final cumulative strategy return:
+2024-10-28 19:56:49,979 INFO 
+Price                          Close Signal Daily_Return Strategy_Return Cumulative_Strategy_Return
+Ticker                         ^GSPC                                                               
+Date                                                                                               
+2022-12-16 00:00:00+00:00 3,852.3601     -1      -0.0111          0.0111                    -0.0356
+2022-12-19 00:00:00+00:00 3,817.6599     -1      -0.0090          0.0090                    -0.0270
+2022-12-20 00:00:00+00:00 3,821.6201     -1       0.0010         -0.0010                    -0.0280
+2022-12-21 00:00:00+00:00 3,878.4399      1       0.0149         -0.0149                    -0.0424
+2022-12-22 00:00:00+00:00 3,822.3899      1      -0.0145         -0.0145                    -0.0563
+2022-12-23 00:00:00+00:00 3,844.8201      1       0.0059          0.0059                    -0.0507
+2022-12-27 00:00:00+00:00 3,829.2500      1      -0.0040         -0.0040                    -0.0546
+2022-12-28 00:00:00+00:00 3,783.2200      1      -0.0120         -0.0120                    -0.0659
+2022-12-29 00:00:00+00:00 3,849.2800      1       0.0175          0.0175                    -0.0496
+2022-12-30 00:00:00+00:00 3,839.5000      1      -0.0025         -0.0025                    -0.0520
+2024-10-28 19:58:27,424 INFO Fetching historical market data for backtesting...
+2024-10-28 19:58:27,983 INFO Data fetched successfully.
+2024-10-28 19:58:27,983 INFO Generating trade signals for backtesting...
+2024-10-28 19:58:27,988 INFO Trade signals generated.
+2024-10-28 19:58:27,988 INFO Calculating confidence scores for backtesting...
+2024-10-28 19:58:27,994 INFO Confidence scores calculated.
+2024-10-28 19:58:27,994 INFO Calculating strategy returns...
+2024-10-28 19:58:28,593 INFO Performance chart saved as backtest_performance.png
+2024-10-28 19:58:28,594 INFO Final Cumulative Return: -5.20%
+2024-10-28 19:58:28,594 INFO Average Daily Return: 0.0053%
+2024-10-28 19:58:28,594 INFO Backtesting completed.
+2024-10-28 20:01:41,535 INFO Fetching historical market data for backtesting...
+2024-10-28 20:01:42,107 INFO Data fetched successfully.
+2024-10-28 20:01:42,107 INFO Generating trade signals for backtesting...
+2024-10-28 20:01:42,113 INFO Trade signals generated.
+2024-10-28 20:01:42,113 INFO Calculating confidence scores for backtesting...
+2024-10-28 20:01:42,120 INFO Confidence scores calculated.
+2024-10-28 20:01:42,120 INFO Calculating strategy returns...
+2024-10-28 20:01:42,318 INFO Performance chart saved as backtest_performance.png
+2024-10-28 20:01:42,319 INFO Final Cumulative Return: -5.20%
+2024-10-28 20:01:42,319 INFO Average Daily Return: 0.0053%
+2024-10-28 20:01:42,319 INFO Backtesting completed.

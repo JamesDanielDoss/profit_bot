@@ -1,0 +1,31 @@
+2024-10-28 19:44:52,070 INFO Starting the main script.
+2024-10-28 19:44:52,070 INFO Fetching market data...
+2024-10-28 19:44:52,651 INFO Data fetched successfully.
+2024-10-28 19:44:52,651 INFO Generating trade signals...
+2024-10-28 19:44:52,654 ERROR An error occurred: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2024-10-28 19:46:35,847 INFO Starting the main script.
+2024-10-28 19:46:35,847 INFO Fetching market data...
+2024-10-28 19:46:36,428 INFO Data fetched successfully.
+2024-10-28 19:46:36,428 INFO Generating trade signals...
+2024-10-28 19:46:36,432 ERROR An error occurred: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2024-10-28 19:47:57,241 INFO Starting the main script.
+2024-10-28 19:47:57,241 INFO Fetching market data...
+2024-10-28 19:47:57,834 INFO Data fetched successfully.
+2024-10-28 19:47:57,834 INFO Generating trade signals...
+2024-10-28 19:47:57,842 ERROR An error occurred: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2024-10-28 19:48:47,252 INFO Starting the main script.
+2024-10-28 19:48:47,252 INFO Fetching market data...
+2024-10-28 19:48:47,885 INFO Data fetched successfully.
+2024-10-28 19:48:47,885 INFO Generating trade signals...
+2024-10-28 19:48:47,894 INFO Trade signals generated.
+2024-10-28 19:48:47,894 INFO Calculating confidence scores...
+2024-10-28 19:48:47,904 INFO Confidence scores calculated.
+2024-10-28 19:48:47,904 INFO Final data with trade signals and confidence scores:
+2024-10-28 19:48:47,905 INFO Price                            Close    SMA_short     SMA_long Signal Confidence
+Ticker                           ^GSPC                                            
+Date                                                                              
+2020-01-02 00:00:00+00:00  3257.850098  3257.850098  3257.850098      0        0.0
+2020-01-03 00:00:00+00:00  3234.850098  3246.350098  3246.350098      0        0.0
+2020-01-06 00:00:00+00:00  3246.280029  3246.326742  3246.326742      0        0.0
+2020-01-07 00:00:00+00:00  3237.179932  3244.040039  3244.040039      0        0.0
+2020-01-08 00:00:00+00:00  3253.050049  3245.842041  3245.842041      0        0.0
